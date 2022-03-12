@@ -142,3 +142,44 @@ body {
     text-align: right;
     color: #1F2937;
 }
+
+.up {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 200px;
+    border-radius: 10px;
+    color: #F9FAF8;
+    align-items: center;
+    padding: 50px 100px;
+}
+
+.button2 {
+    width: 120px;
+    height: 40px;
+    background-color: #3882F6;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: #F9FAF8;
+    font-size: 18px;
+    color: #F9FAF8;
+    font-weight: 500;
+}
+
+#call {
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+}
+
+#product {
+    font-weight: 300;
+    margin: 0;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 30px 0px;
+}
